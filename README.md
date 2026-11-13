@@ -70,6 +70,8 @@ Stage                           In  Adv%  Median     P90  Open Stall
 
 ## Workflow architecture
 
+![n8n HubSpot Deal Stage Velocity Benchmark Calculator Workflow](./assets/workflow-overview.png)
+
 ```mermaid
 flowchart LR
     W[Weekly Schedule<br/>Mon 07:00] --> C
