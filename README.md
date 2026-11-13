@@ -4,7 +4,7 @@ An n8n workflow package that pulls HubSpot deal stage history every week, benchm
 
 **Read-only by design:** the workflow never writes to HubSpot.
 
-![CI](https://github.com/dhrobinsystems/hubspot-deal-stage-velocity-benchmark-calculator/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/dhrobinsystems/n8n-hubspot-deal-stage-velocity-benchmark-calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/dhrobinsystems/n8n-hubspot-deal-stage-velocity-benchmark-calculator/actions/workflows/ci.yml)
 ![Node](https://img.shields.io/badge/node-%3E%3D20-339933)
 ![Dependencies](https://img.shields.io/badge/npm%20dependencies-0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
