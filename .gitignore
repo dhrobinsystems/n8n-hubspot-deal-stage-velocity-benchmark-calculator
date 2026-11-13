@@ -1,0 +1,27 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+
+# Dependencies
+node_modules/
+
+# Exports and local output (may contain CRM data: keep out of git)
+exports/
+reports/
+*.csv
+*.xlsx
+coverage/
+logs/
+*.log
+.n8n/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
